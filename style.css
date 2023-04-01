@@ -49,24 +49,22 @@
 :root{
 
     /* primary */
-    --clr-very-dark-blue : hsl(243, 87%, 12%);
-    --clr-desaturated-blue :  hsl(238, 22%, 44%);
+    --clr-purple : hsl(259, 100%, 65%);
+    --clr-light-red :  hsl(0, 100%, 67%);
 
-    /* accent */
-    --clr-bright-blue : hsl(224, 93%, 58%);
-    --clr-moderate-cyan : hsl(170, 45%, 43%);
-    
     /* neutral */
-    --clr-light-grayish-blue: hsl(240, 75%, 98%);
-    --clr-light-grey : hsl(0, 0%, 75%);
+    --clr-white : hsl(0, 0%, 100%);
+    --clr-off-white :hsl(0, 0%, 94%);
+    --clr-light-grey : hsl(0, 0%, 86%);
+    --clr-smoke-grey :  hsl(0, 1%, 44%);
+    --clr-off-blac : hsl(0, 0%, 8%)
+    
 
     /* Font size */
-    --fs: 1rem;
+    --fs_input: 2rem;
 
     /* Font family */
     /* accent */
     --ff-accent: 'Outfit', sans-serif;
-    /* neutral on whole body */
-    --ff-neutral: 'Open Sans', sans-serif;
 }
 
