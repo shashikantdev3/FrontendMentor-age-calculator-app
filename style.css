@@ -64,7 +64,6 @@
     --fs_input: 2rem;
 
     /* Font family */
-    /* accent */
-    --ff-accent: 'Outfit', sans-serif;
-}
+    --ff: 'Poppins', sans-serif;
+} 
 
