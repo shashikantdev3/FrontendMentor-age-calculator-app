@@ -92,9 +92,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Shashikant](https://www.your-site.com)
+- Frontend Mentor - [@shashikantdev3](https://www.frontendmentor.io/profile/shashikantdev3)
+- Twitter - [@shashikantdev3](https://www.twitter.com/shashikantdev3)
 
 ## Acknowledgments
 
